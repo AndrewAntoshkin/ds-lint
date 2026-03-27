@@ -1,5 +1,5 @@
 {
-  "name": "ds-lint",
+  "name": "@andrewaitken/ds-lint",
   "version": "0.1.0",
   "description": "Scan codebases for hardcoded colors, spacing, and font sizes that should use design tokens",
   "license": "MIT",
